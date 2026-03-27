@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex Vance
 - 👀 I’m interested in Frontend and Full-Stack dev work, and some mobile stuff sometimes
 - 🌱 I've worked with React/JS/HTML/CSS, Typescript, GQL, SQL, Node, and some other technologies.
-- 📫 How to reach me me@alexvance[dot]io
 
 <!---
 vancy-pants/vancy-pants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
